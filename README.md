@@ -5,7 +5,7 @@ A second version of the author informational site for Greg Rucka. With the help 
 
 **Body:** I removed the border around all of the content and adjusted the margin borders. I also gave the background a hint of grey so it wasn't as stark white.
 
-***Accent lines:** Added 100% to the width so it would resize with the screen. Also replaced the second set of accent lines with a horizontal rule.
+**Accent lines:** Added 100% to the width so it would resize with the screen. Also replaced the second set of accent lines with a horizontal rule.
 
 **Author Bio:** Added line-height to the author bio for better readability. Also removed the fancy quote from the blockquote and placed it in its own div. Decreased the border size for the image and set the max-width/height to 100% so it would resize with the screen.
 
